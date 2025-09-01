@@ -8,4 +8,4 @@
 
 ### This is a **REMOTE** change :O
 
-![This is what your lasagna should look like](student_a3/sunset/recipe.png "A Lasagna")
+![This is what your lasagna should look like](recipe/recipe.png "A Lasagna")
